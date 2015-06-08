@@ -1,0 +1,36 @@
+body {
+  margin-top: 8% !important;
+  margin-left: 3% !important;
+  margin-right: 3% !important;
+  background-color: #ffffff !important;
+  padding-bottom: 70px !important; 
+  }
+  
+.page-2 {
+	padding-bottom: 9px;
+  margin: 40px 0 20px;
+  border-bottom: 5px solid #eeeeee;
+} 
+.page-3{
+	padding-bottom: 9px;
+  margin: 40px 0 20px;
+  border-bottom: 5px solid #eeeeee;
+}
+.page-3{
+  padding-bottom: 9px;
+  margin: 40px 0 20px;
+  border-bottom: 5px solid #eeeeee;
+}
+.page-4{
+  padding-bottom: 9px;
+  margin: 40px 0 20px;
+  border-bottom: 5px solid #eeeeee;
+}
+.page-5{
+  padding-bottom: 9px;
+  margin: 40px 0 20px;
+  border-bottom: 5px solid #eeeeee;
+}
+.navbar-fixed-top{
+  margin-bottom: 20px !important;
+}
